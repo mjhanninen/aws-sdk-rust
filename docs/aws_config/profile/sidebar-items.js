@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["load","Read & parse AWS config files"]],"mod":[["credentials","Profile File Based Credential Providers"],["region","Load a region from an AWS profile"]],"struct":[["Profile","An individual configuration profile"],["ProfileSet","A top-level configuration source containing multiple named profiles"],["Property","Key-Value property pair"]]});
