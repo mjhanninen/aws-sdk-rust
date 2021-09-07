@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0.
  */
 
+#![feature(int_roundings)]
+
 pub mod base64;
 pub mod instant;
 pub mod primitive;
